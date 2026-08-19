@@ -1,6 +1,6 @@
 # Ritual Tx Searcher & Network Explorer Tool
 
-a lightweight network utility dApp for the Ritual Network ecosystem, allowing users to track transactions and inspect chain activity.
+A lightweight network utility dApp for the Ritual Network ecosystem, allowing users to track transactions and inspect chain activity.
 
 ## Key Features
 - **Transaction Hash Lookup:** Instant transaction status and hash search functionality.
